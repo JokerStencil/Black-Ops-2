@@ -41,10 +41,6 @@
 	<img src="images/Buried.webp" alt="Buried">
 	<h2 id="og">Origins</h2>
 	<p id="og">Following the canonical ending, Maxis plucks Samantha's soul from Richtofen's body and brings her to Agartha. Realizing her father’s corruption by the Aether, Samantha contacts an alternate version of Maxis, drawing her to Northern France during World War I. Here, Group 935, which was founded much earlier, develops massive mechanical robots and elemental staffs to aid Germany’s war effort. In 1918, Group 935 stumbles upon an ancient tomb believed to be of Vril origin, unleashing the first known zombie outbreak in history. The United States, Russia, and Japan send their agents: "Tank" Dempsey, Nikolai Belinski, and Takeo Masaki, respectively, to capture Richtofen, the mastermind behind the advanced technology. While most of Group 935 is wiped out by the zombies, Richtofen lobotomizes Maxis to prevent him from turning undead. The group is contacted by Samantha, who begs them to free her from Agartha. Richtofen puts Maxis' brain in a flying drone, and he joins the fight against the zombies and to free Samantha. The group succeeds, and while Maxis meets his daughter, they enter Agartha to be rewarded. A final cutscene shows Samantha with a boy named Eddie inside a house playing with toys of the characters who have appeared in the Zombies game mode throughout all three games. Air raid sirens are heard and the two children retreat to the basement with Maxis, with Samantha noting her father has a plan to make the heroes of their games real.</p>
-	<video height="290" width="480" controls>
-		<source src="images/OGTrailer.mp4" type="video/mp4"/>
-	</video>
-	<br>
 	<img src="images/Origins.webp" alt="Origins">
 	<br>
 	<h2 id="mrfl">My reason's for liking it.</h2>
@@ -64,4 +60,5 @@
 	<a class="link" href="Response.html" target="_blank" title="Response Page" style="font-size: xx-large;">Response Page</a>
 	</footer>
 </body>
+
 </html>

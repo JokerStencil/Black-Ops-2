@@ -1,0 +1,67 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+	<title>Call of Duty: Black Ops II</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<meta name="description" content="this website explains why you should buy Call of Duty: Black Ops II"/>
+	<link rel="stylesheet" type="text/css" href="main.css"/>
+	<meta charset="utf-8"/>
+</head>
+<body>
+	<header>
+		<figure>
+			<h1 id="zm">Zombies</h1>
+			<img src="images/bo2zm.jpg" alt="Image of BO2 Zombies Menu" style="width: 960px; height: 540px;">
+			<br>
+			<figcaption>This is what the menu for BO2 zombies looks like. One of, if not the most unique menu we've ever had. You turn the destroyed globe to select which map you would like to play, even though Mob of The Dead and Origins both take place in different universes than the rest of the maps.</figcaption>
+		</figure>
+	</header>
+	<h2 id="nz">Nuketown Zombies</h2>
+	<p id="nz">In 2025, a squad of CIA and CDC operatives investigate a nuclear testing site in Nevada known as "Nuketown", where they are attacked by zombies. At the same time, Dr. Edward Richtofen seizes control of the zombies by entering the Aether from Griffin Station on the Moon. After some time, three missiles loaded with Element 115, the element responsible for the reanimation of dead cells, are launched from the Moon towards Earth, completely destroying its atmosphere. One missile completely destroys Nuketown and all present, except for one individual, Marlton Johnson, who escapes after hiding out in the site's bunker.</p>
+	<img src="images/nuke.webp" alt="Nuketown">
+	<h2 id="tz">TranZit</h2>
+	<p id="tz">As a result of the catastrophe, Earth has been reduced to a crumbling, hellish wasteland overrun by zombies. In this new world, four survivors — Samuel Stuhlinger, Abigail "Misty" Briarton, Marlton, and Russman — have banded together to survive in Hanford, Washington with the help of a bus driven by a robotic driver. The four are contacted by Dr. Ludvig Maxis, Richtofen's rival, asking for their help against Richtofen; Stuhlinger is contacted separately by Richtofen himself, asking for the same against Maxis. Both former scientists request the four to assist them in powering up a tower within the area to work in their favor.</p>
+	<img src="images/TranZit.webp" alt="TranZit">
+	<h2 id="dr">Die Rise</h2>
+	<p id="dr">Once done, regardless of the path they choose, the survivors are teleported by Richtofen to a crumbling skyline in the ruins of Shanghai. The four learn of The Flesh, a cannibalistic cult that chooses to eat zombie meat, as well as the beginnings of a new airborne pandemic of Element 115. Stuhlinger is threatened by Richtofen, who knows of his past as a member of The Flesh, which allows only him to hear Richtofen and not the others. At the site, Maxis and Richtofen once again instruct the four to power up a second tower.</p>
+	<img src="images/DieRise.webp" alt="Die Rise">
+	<h2 id="mob">Mob Of The Dead</h2>
+	<p id="mob">During the Great Depression, four mobsters — Salvatore "Sal" DeLuca, Billy Handsome, Michael "Finn" O'Leary, and Albert "Weasel" Arlington — are incarcerated at Alcatraz Island. On New Year's Eve 1933, the four attempt to escape the prison, using Weasel's plan to build a makeshift airplane called Icarus. However, the prison becomes infested with zombies, and they are forced to fight their way out. They succeed in building the airplane, but crash-land at the Golden Gate Bridge, before being teleported back to the prison, with no memories of their previous attempt (except Weasel, who keeps a journal of the ongoing events). After many failed attempts, they discover they are actually stuck in Purgatory, constantly repeating a cycle as punishment for their past sins. In reality, the escape plan never came to fruition, and Weasel was killed by the other three on New Year's Eve, while the rest were given the death penalty weeks later. Having remembered the truth, Sal, Billy and Finn set out to kill Weasel once again. Two possible endings can occur: if Weasel is killed, the cycle will repeat; if Weasel lives and the other three are killed, the cycle is broken, and he is freed of his punishment.</p>
+	<video height="290" width="480" controls>
+		<source src="images/MobTrailer.mp4" type="video/mp4"/>
+	</video>
+	<br>
+	<img src="images/Mob.webp" alt="Mob Of The Dead">
+	<h2 id="br">Buried</h2>
+	<p id="br">Following their battles in Shanghai, Russman leads the survivors across the continents to a large hole in the ground known as The Rift in Africa, hoping to find answers about the unseen forces commanding them. Richtofen once again commands Stuhlinger to convince the others to help him power the third tower in his favor. The four travel underground to find a Western town warped from its original place by temporal displacement. Here, they enlist the help of a mute giant, Arthur, to further their progress. Based on the survivors' choice in Washington and Shanghai, two possible endings can occur:</p>
+	<ol type="1">
+		<li id="br">In the canonical ending, the survivors aid Maxis, allowing him to use the power from the towers to enter the Aether and assume ultimate control, trapping Richtofen in a zombie's body. However, the Earth begins shaking, and Maxis explains to the four that he is beginning the process of the destruction of the Earth and humanity to reach Agartha, where he believes his daughter Samantha is.</li>
+		<li id="br">In the non-canon ending, the survivors aid Richtofen, letting him gain unlimited power over the Aether and the Earth, allowing him to kill Maxis and condemn Samantha's soul to eternal damnation. Richtofen also uses Stuhlinger as his human vessel, but finds himself unable to escape afterwards.</li>
+	</ol>
+	<img src="images/Buried.webp" alt="Buried">
+	<h2 id="og">Origins</h2>
+	<p id="og">Following the canonical ending, Maxis plucks Samantha's soul from Richtofen's body and brings her to Agartha. Realizing her father’s corruption by the Aether, Samantha contacts an alternate version of Maxis, drawing her to Northern France during World War I. Here, Group 935, which was founded much earlier, develops massive mechanical robots and elemental staffs to aid Germany’s war effort. In 1918, Group 935 stumbles upon an ancient tomb believed to be of Vril origin, unleashing the first known zombie outbreak in history. The United States, Russia, and Japan send their agents: "Tank" Dempsey, Nikolai Belinski, and Takeo Masaki, respectively, to capture Richtofen, the mastermind behind the advanced technology. While most of Group 935 is wiped out by the zombies, Richtofen lobotomizes Maxis to prevent him from turning undead. The group is contacted by Samantha, who begs them to free her from Agartha. Richtofen puts Maxis' brain in a flying drone, and he joins the fight against the zombies and to free Samantha. The group succeeds, and while Maxis meets his daughter, they enter Agartha to be rewarded. A final cutscene shows Samantha with a boy named Eddie inside a house playing with toys of the characters who have appeared in the Zombies game mode throughout all three games. Air raid sirens are heard and the two children retreat to the basement with Maxis, with Samantha noting her father has a plan to make the heroes of their games real.</p>
+	<video height="290" width="480" controls>
+		<source src="images/OGTrailer.mp4" type="video/mp4"/>
+	</video>
+	<br>
+	<img src="images/Origins.webp" alt="Origins">
+	<br>
+	<h2 id="mrfl">My reason's for liking it.</h2>
+	<p id="mrfl">The reason I enjoy the zombies for this game so much is due to the fact that I grew up with these maps and played them frequently when I was younger. Although i do have rose tinted goggles for this game, I do so some of the flaws that could turn some people away. For example, on the map TranZit, the wonder weapon (the Jet Gun) is extremely lack luster since it breaks after just 10 seconds of sustained use.</p>
+	<p id="mrfl">Also, the map Die Rise is a very vertically challenging map, featuring many jumps over gaps that kill you if you fall into it. It also shows off a requested perk to return, PHD Flopper, which negates fall damage and causes explosions when dolphin diving, but is inaccessible and only shown for a few seconds when falling from spawn.</p>
+	<p id="mrfl">Even with these flaws, Many of the maps are still very good and some of the best the franchise has seen, such as Origins, which features 4 buildable and upgradeable elemental staffs, A fire (Kagutsuchi Blood) ice (Ull's Arrow) lightning (Kimat's Bite) and wind (Boreas' Fury). It also introduces the one inch punch, a melee wonder weapon that replaces your knife and allows you to one shot zombies up until round 19 (This map is my personal favorite of all time).</p>
+	<p id="mrfl">The map Mob of The Dead features the amazing wonder weapon, the Blundergat, upgraded into the Acidgat (packed into the Vitriolic Withering). It also introduced  being able to pick up multiple quest items at once (in solo), which became the standard for easter eggs moving forward.</p>
+	<p id="mrfl">There is also the survival maps, Town, Farm, and Bus Depot. Town, being the best one, features the Town segment from TranZit and includes Pack-a-Punch, Juggernog, Quick Revive, Speed Cola, Double Tap 2.0, Staminup, and Tombstone. Farm is a more challenging survival map, removing Pack-a-Punch and featuring tighter more chaotic segments. Bus Depot completely removes any support, opting for just the mystery box and no perks or Pack-a-Punch.</p>
+	<p id="mrfl">Nuketown Zombies is another survival-esque map featuring Juggernog, Quick Revive, Speed Cola, Double Tap 2.0, and Pack-a-Punch, but instead of them all being placed on the map, they each fall from the sky every couple of the rounds in random locations (besides quick revive which is always in spawn in solo, in Co-Op, it falls at random.)</p>
+	<p id="mrfl">Last, but not least, is Buried, which brought with it, the RayGun Mk.II which is a more powerful, burst fire version of the original RayGun from World at War. It was then subsequently added to all maps in Black Ops II (if you own the buried DLC). It also added the Paralyzer and Time Bomb, 2 of the most unique wonder weapons we've ever received. The time bomb returns you to whichever round you threw it on, so if you threw it on round 5 and got to round 30 and use it, you'll be set back to round 5 with all the weapons, points, and perks that you had at the time. The paralyzer is a large, paralyzing, wonder weapon which slows and kills any zombies caught in its field, it also allows the user to float over the obstacles throughout the map and doesn't damage Leroy (that's what i call Arthur the giant).</p>
+	<p id="mrfl">Overall I think the majority of the maps on this game are good and there is really only one mediocre map (Die Rise but the Sliquifier is fire), and one map that has a good idea but poor execution (TranZit with its 4 maps in one aproach.) They generally aren't bad maps, but they're mechanics, and the fact that a wonder weapon that makes you slip and slide around is on a map where the main hazard is falling off a sky scraper. Overall I would say that the game is very worth it in terms of its zombies gameplay and maps.</p>
+	<footer>
+	<a class="link" href="Bo2.html" target="_blank" title="Campaign Page" style="font-size: xx-large;">Campaign Page</a>
+	<br>
+	<a class="link" href="Multiplayer.html" target="_blank" title="Multiplayer Page" style="font-size: xx-large;">Multiplayer Page</a>
+	<br>
+	<a class="link" href="Response.html" target="_blank" title="Response Page" style="font-size: xx-large;">Response Page</a>
+	</footer>
+</body>
+</html>

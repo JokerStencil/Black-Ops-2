@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+	<title>Call of Duty: Black Ops II</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<meta name="description" content="this website explains why you should buy Call of Duty: Black Ops II"/>
+	<link rel="stylesheet" type="text/css" href="main.css"/>
+	<meta charset="utf-8"/>
+</head>
+<body>
+	<h1 id="WYB">Would You Buy It?</h1>
+	<h3>Explain to me if and why you would buy it(there isn't a server so this goes absolutely nowhere)</h3>
+	<form>
+		<label for="WYB"></label>
+		<textarea name="WYB" rows="10" cols="45" placeholder="Input Text Here.."></textarea>
+        	<button style="width: 150px; height: 20px;">Submit</button>
+	</form>
+	<hr>
+	<footer>
+	<a class="link" href="Bo2.html" target="_blank" title="Campaign Page" style="font-size: xx-large;">Campaign Page</a>
+	<br>
+	<a class="link" href="Multiplayer.html" target="_blank" title="Multiplayer Page" style="font-size: xx-large;">Multiplayer Page</a>
+	<br>
+	<a class="link" href="Zombies.html" target="_blank" title="Zombies Page" style="font-size: xx-large;">Zombies Page</a>
+	</footer
+</body>
+</html>

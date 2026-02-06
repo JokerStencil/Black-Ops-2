@@ -39,7 +39,7 @@
 		<li id="camp">Additionally, if Mason survives being shot by Woods, he will reunite with him and Section at the Vault in 2025. If he does not, Section retires from the military after visiting his father's grave. The latter ending is canon, with Mason's death setting the stage for Black Ops 6.</li>
 		</ul>
 	</aside>
-	<h2 id="mrfl">My reason's for liking it.</h2>
+	<h2 id="mrfl">My reasons for liking it.</h2>
 	<p id="mrfl">I personally really enjoy how the campaign weaves a story that has a mix of the cold war in 1947 - 1991 and the 2nd cold war, from 2018 - 2025.</p>
 	<p id="mrfl"> I also think that the fact that you end up killing Alex Mason (the protagonist from Black Ops I) as his best friend Frank woods, since Noriega tricks you into shooting him is a cool way to end off the character and also a good way to make you hate Noriega and Menendez even more.</p>
 	<p id="mrfl">I think that this campaign is definitely one of the best in the COD franchise and if you were a fan of Black Ops I and World At War's campaign, you would definitely love this one, but if you're more akin to the Modern Warfare series, you probably wouldn't have as much of a connection. But overall this is a genuinely good campaign and definitely worth it.</p>
@@ -52,4 +52,5 @@
 	<a class="link" href="Response.html" target="_blank" title="Response Page" style="font-size: xx-large;">Response Page</a>
 	</footer>
 </body>
+
 </html>
